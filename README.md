@@ -1,6 +1,7 @@
 # 智能语音助手系统 (RobotAgent) - 本科毕业设计
 
 > 基于 DeepSeek-V3 大模型、Sherpa-Onnx 离线语音识别与 LangChain 架构的实时交互机器人。
+> 演示视频：https://www.bilibili.com/video/BV1a7wgzBEWB
 
 ## 项目简介
 
